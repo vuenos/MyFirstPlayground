@@ -9,7 +9,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Text("Heloo Playground")
+            Text("Hello Playground")
                 .font(.title)
                 .foregroundColor(Color(.systemGray2))
             
